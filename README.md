@@ -14,7 +14,7 @@ Este é um projeto simples e divertido: um **sorteador de amigo secreto**. A apl
 
 Basta seguir estes passos para começar a usar o sorteador:
 
-1.  **Acesse a Aplicação:** [Adicione aqui o link para o projeto, se ele estiver online (ex: um link do GitHub Pages, Vercel ou Netlify).]
+1.  **Acesse a Aplicação:** 
 2.  **Digite os Nomes:** Na caixa de texto, insira os nomes dos participantes, um por vez.
 3.  **Clique em "Adicionar":** Para cada nome digitado, clique no botão "Adicionar" para incluí-lo na lista.
 4.  **Iniciar o Sorteio:** Quando todos os nomes estiverem na lista, clique no botão **"Sortear"**. O nome do amigo secreto será exibido na tela\!
